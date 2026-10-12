@@ -1,0 +1,6 @@
+_originals/
+.DS_Store
+.venv/
+*.zip
+*.html
+__pycache__/
